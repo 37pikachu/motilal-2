@@ -1,0 +1,39 @@
+body{
+	margin-top: 0 !important;
+	padding-top: 0;
+	background: #ffe20b;
+}
+.nav-item{
+	font-size: 20px;
+	padding: 10px 30px;
+}
+
+hr {
+  border: dotted #black 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 10px auto;
+  background-color: black;
+}
+
+.row a{
+	display: inline-block;
+	padding: 30px;
+	background-color: #abdbe3;
+	border-radius: 15px;
+	border-color: blueviolet;
+	border-width: medium;
+	border-style: solid;
+	width:  90%;
+	margin: 5% 5%;
+	box-shadow: 4px 4px blue;
+}
+
+.container{
+	margin: 2% auto;
+	text-align: center;
+}
+
+b{
+	color: black;
+}
